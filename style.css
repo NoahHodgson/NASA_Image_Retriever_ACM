@@ -15,5 +15,8 @@ html {
 }
 
 #image {
-    max-width: 600px;
+  width: auto ;
+  max-width: 600px ;
+  object-fit: scale-down; max-width: 100%
+  height: auto ;
 }
